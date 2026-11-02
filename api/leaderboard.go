@@ -15,7 +15,7 @@ import (
 
 const (
 	scoresPerPage    = 5
-	dbFilePath       = "scores.json"
+	dbFilePath       = "/data/scores.json"
 	verificationSalt = "1234"
 )
 
